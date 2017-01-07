@@ -5,3 +5,6 @@
 \\Mac\Home\Documents\Visual Studio 2015\Projects\SerializationDeserialization\SerializationDeserialization\bin\Debug\Newtonsoft.Json.xml
 \\Mac\Home\Documents\Visual Studio 2015\Projects\SerializationDeserialization\SerializationDeserialization\obj\Debug\SerializationDeserialization.exe
 \\Mac\Home\Documents\Visual Studio 2015\Projects\SerializationDeserialization\SerializationDeserialization\obj\Debug\SerializationDeserialization.pdb
+\\Mac\Home\Documents\sampleproject\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe.config
+\\Mac\Home\Documents\sampleproject\SerializationDeserialization\obj\Debug\SerializationDeserialization.exe
+\\Mac\Home\Documents\sampleproject\SerializationDeserialization\obj\Debug\SerializationDeserialization.pdb

@@ -16,7 +16,8 @@ namespace SerializationDeserialization
             {
                 new Employee() { Id=1, Name="Maung Maung", Title="Manager", DOB="12/1/1986", Address="Mandalay" },
                 new Employee() { Id=2, Name="Kyaw Kyaw", Title="Programmer", DOB="3/4/1975", Address="Yangon" },
-                new Employee() { Id=3, Name="Mya Mya", Title="System Analyst", DOB="8/5/1987", Address="Taung Gyi" }
+                new Employee() { Id=3, Name="Mya Mya", Title="System Analyst", DOB="8/5/1987", Address="Taung Gyi" },
+                new Employee() { Id=3, Name="Tun Tun", Title="Team Lead", DOB="1/7/1982", Address="Sagaing" }
             };
 
             XMLSerializeDeserialize<List<Employee>> XMLSerializeEmployees = new XMLSerializeDeserialize<List<Employee>>();
